@@ -847,10 +847,6 @@ label {
     transition: width 0.5s ease;
 }
 
-#p {
-    background-color: #4caf50;
-}
-
 #red {
     background-color: red;
 }
@@ -861,6 +857,12 @@ label {
 
 #yellow {
     background-color: yellow;
+}
+
+/*
+
+#p {
+    background-color: #4caf50;
 }
 
 #l {
@@ -874,4 +876,4 @@ label {
 
 #d {
     background-color: #ff6f61;
-}
+}  */
