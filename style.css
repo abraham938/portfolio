@@ -860,5 +860,9 @@ label {
 }
 #link{
 fontsize:18px;
-color:blue;
+color:red;
+}
+
+#link:hover{
+color:white;
 }
