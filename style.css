@@ -847,11 +847,11 @@ label {
     transition: width 0.5s ease;
 }
 
-#python {
+#p {
     background-color: #4caf50;
 }
 
-#javascript {
+#l {
     background-color: #f0db4f;
     color: black;
 }
@@ -860,6 +860,6 @@ label {
     background-color: #61dafb;
 }
 
-#sql {
+#d {
     background-color: #ff6f61;
 }
