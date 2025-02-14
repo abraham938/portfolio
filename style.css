@@ -851,6 +851,18 @@ label {
     background-color: #4caf50;
 }
 
+#red {
+    background-color: red;
+}
+
+#green {
+    background-color: green;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
 #l {
     background-color: #f0db4f;
     color: black;
