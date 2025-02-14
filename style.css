@@ -801,3 +801,65 @@ textarea:focus {
     background-color: var(--primary-color-dark); /* Darker background on hover */
     color: var(--white); /* Change text color on hover */
 }
+
+
+
+
+.skills-container {
+    width: 80%;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+.skill {
+    margin: 20px 0;
+}
+
+label {
+    font-size: 18px;
+    color: #555;
+}
+
+.progress-bar {
+    width: 100%;
+    background-color: #e0e0e0;
+    border-radius: 25px;
+    overflow: hidden;
+    height: 20px;
+    margin-top: 5px;
+}
+
+.progress {
+    height: 100%;
+    border-radius: 25px;
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    font-weight: bold;
+    transition: width 0.5s ease;
+}
+
+#python {
+    background-color: #4caf50;
+}
+
+#javascript {
+    background-color: #f0db4f;
+    color: black;
+}
+
+#react {
+    background-color: #61dafb;
+}
+
+#sql {
+    background-color: #ff6f61;
+}
